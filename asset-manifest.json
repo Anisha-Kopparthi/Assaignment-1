@@ -1,14 +1,10 @@
 {
   "files": {
-    "main.css": "/Assaignment-1/static/css/main.679942a6.css",
-    "main.js": "/Assaignment-1/static/js/main.de7dd125.js",
-    "static/media/john-cobb-14128-unsplash-e1526486464740-1112x630.jpg": "/Assaignment-1/static/media/john-cobb-14128-unsplash-e1526486464740-1112x630.5fcaf68f05b616936b36.jpg",
-    "index.html": "/Assaignment-1/index.html",
-    "main.679942a6.css.map": "/Assaignment-1/static/css/main.679942a6.css.map",
-    "main.de7dd125.js.map": "/Assaignment-1/static/js/main.de7dd125.js.map"
+    "main.js": "/Anisha-Kopparthi/News/static/js/main.d845a6cf.js",
+    "index.html": "/Anisha-Kopparthi/News/index.html",
+    "main.d845a6cf.js.map": "/Anisha-Kopparthi/News/static/js/main.d845a6cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.679942a6.css",
-    "static/js/main.de7dd125.js"
+    "static/js/main.d845a6cf.js"
   ]
 }
